@@ -1,0 +1,1 @@
+export const EMAIL_REGEX = new RegExp(/\S+@\S+\.\S+/);
